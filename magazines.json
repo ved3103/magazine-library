@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Harvard Business Review",
+    "publication_date": "2009-01-15",
+    "editor": "Adi Ignatius",
+    "category": "Business"
+  },
+  {
+    "id": 2,
+    "title": "Vogue",
+    "publication_date": "2025-01-12",
+    "editor": "Anna Wintour",
+    "category": "Fashion"
+  },
+  {
+    "id": 3,
+    "title": "Forbes Magazine",
+    "publication_date": "2025-02-05",
+    "editor": "Randall Lane",
+    "category": "Business"
+  },
+  {
+    "id": 4,
+    "title": "Wired",
+    "publication_date": "2025-01-15",
+    "editor": "Gideon Lichfield",
+    "category": "Tech"
+  },
+  {
+    "id": 5,
+    "title": "TechCrunch Monthly",
+    "publication_date": "2025-02-12",
+    "editor": "Matthew Panzarino",
+    "category": "Tech"
+  },
+  {
+    "id": 6,
+    "title": "PC Gamer",
+    "publication_date": "2025-03-18",
+    "editor": "Evan Lahti",
+    "category": "Tech"
+  },
+  {
+    "id": 7,
+    "title": "National Geographic",
+    "publication_date": "2025-01-20",
+    "editor": "Nathan Lump",
+    "category": "Science"
+  },
+  {
+    "id": 8,
+    "title": "New Scientist",
+    "publication_date": "2025-03-09",
+    "editor": "Catherine de Lange",
+    "category": "Science"
+  },
+  {
+    "id": 9,
+    "title": "GQ Style",
+    "publication_date": "2025-04-06",
+    "editor": "Will Welch",
+    "category": "Fashion"
+  }
+]
