@@ -1,3 +1,5 @@
+# Branch test: adding minor UI note
+
 # Tkinter GUI for browsing and managing magazines
 
 # gui.py
