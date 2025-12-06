@@ -1,3 +1,5 @@
+# Storage layer: handles JSON persistence for magazines
+
 # storage.py
 import json
 import os
