@@ -1,3 +1,5 @@
+# Tkinter GUI for browsing and managing magazines
+
 # gui.py
 import tkinter as tk
 from tkinter import ttk, messagebox, simpledialog
