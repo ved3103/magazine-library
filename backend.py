@@ -1,4 +1,7 @@
+# API backend for Magazine Management System
+
 # backend.py
+
 from typing import Tuple
 
 from flask import Flask, jsonify, request
