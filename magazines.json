@@ -61,5 +61,12 @@
     "publication_date": "2025-04-06",
     "editor": "Will Welch",
     "category": "Fashion"
+  },
+  {
+    "id": 10,
+    "title": "The 3 Trillion Titan",
+    "publication_date": "2025-12-01",
+    "editor": "jensen Huang",
+    "category": "Tech"
   }
 ]
